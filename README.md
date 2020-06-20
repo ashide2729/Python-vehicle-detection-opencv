@@ -9,5 +9,6 @@ The repo contains the implementation of real time vehicle detection using cascad
 ### Output:
 
 ![Output png](output.png)
+
 ![Output gif](output.gif)
 
